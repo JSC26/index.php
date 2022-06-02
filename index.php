@@ -84,10 +84,10 @@ span.psw {
     <input type="password" placeholder="Enter Password" name="psw" required>
     
     <label for="psw"><b>Email</b></label>
-    <input type="password" placeholder="Enter Email" name="psw" required>
+    <input type="password" placeholder="Enter Email" name="email" required>
     
      <label for="psw"><b>Birthday</b></label>
-    <input type="password" placeholder="Enter Birthday" name="psw" required>
+    <input type="password" placeholder="Enter Birthday" name="birth" required>
         
     <button type="submit">Login</button>
     <label>
