@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html>
 <head>
@@ -102,3 +103,5 @@ span.psw {
 
 </body>
 </html>
+       
+?>
